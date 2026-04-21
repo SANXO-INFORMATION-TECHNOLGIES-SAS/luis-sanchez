@@ -1,0 +1,26 @@
+{
+  "name": "mitiendaamarilla",
+  "version": "1.0.0",
+  "description": "Tienda virtual de prueba para el coquito amarillo, elabora luis sanchez.",
+  "keywords": [
+    "tienda",
+    "virtual",
+    "retail",
+    "medellin",
+    "coquito",
+    "amarillo"
+  ],
+  "license": "GPL-3.0-or-later",
+  "author": "Luis Sanchez",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
